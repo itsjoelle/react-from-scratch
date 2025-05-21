@@ -12,5 +12,8 @@
   "description": "",
   "devDependencies": {
     "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
   }
 }
